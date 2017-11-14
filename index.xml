@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>http://keepon.today/hellohugo/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Nov 2017 15:43:29 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://keepon.today/hellohugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second</title>
-      <link>http://example.org/posts/second/</link>
+      <link>http://keepon.today/hellohugo/posts/second/</link>
       <pubDate>Tue, 14 Nov 2017 15:43:29 +0800</pubDate>
       
-      <guid>http://example.org/posts/second/</guid>
+      <guid>http://keepon.today/hellohugo/posts/second/</guid>
       <description>second post</description>
     </item>
     
     <item>
       <title>hello hugo</title>
-      <link>http://example.org/posts/hello-hugo/</link>
+      <link>http://keepon.today/hellohugo/posts/hello-hugo/</link>
       <pubDate>Tue, 14 Nov 2017 15:43:29 +0800</pubDate>
       
-      <guid>http://example.org/posts/hello-hugo/</guid>
+      <guid>http://keepon.today/hellohugo/posts/hello-hugo/</guid>
       <description>hello hugo
 first post here!
 Bye bye!</description>

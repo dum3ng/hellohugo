@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/second/</loc>
+    <loc>http://keepon.today/hellohugo/posts/second/</loc>
     <lastmod>2017-11-14T15:43:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/hello-hugo/</loc>
+    <loc>http://keepon.today/hellohugo/posts/hello-hugo/</loc>
     <lastmod>2017-11-14T15:43:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://keepon.today/hellohugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2017-11-14T15:43:29+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://keepon.today/hellohugo/</loc>
     <lastmod>2017-11-14T15:43:29+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://keepon.today/hellohugo/posts/</loc>
+    <lastmod>2017-11-14T15:43:29+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://keepon.today/hellohugo/tags/</loc>
     <priority>0</priority>
   </url>
   
